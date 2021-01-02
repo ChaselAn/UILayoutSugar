@@ -1,0 +1,6 @@
+framework module Pods_LayoutSugar_Example {
+  umbrella header "Pods-LayoutSugar_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

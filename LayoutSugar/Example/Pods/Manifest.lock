@@ -1,0 +1,16 @@
+PODS:
+  - LayoutSugar (0.1.0)
+
+DEPENDENCIES:
+  - LayoutSugar (from `../`)
+
+EXTERNAL SOURCES:
+  LayoutSugar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LayoutSugar: 294c09c6b59e5880cb2af581e9bbcfa54a0ee1f9
+
+PODFILE CHECKSUM: 7641bbf16823499077c6842ce3cebfa6e323ea9b
+
+COCOAPODS: 1.9.3
