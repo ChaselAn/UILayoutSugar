@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'LayoutSugar'
+  s.name             = 'UILayoutSugar'
   s.version          = '1.0.0'
   s.summary          = '快速创建约束的语法糖'
 
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   快速创建约束的语法糖
                        DESC
 
-  s.homepage         = 'https://github.com/ChaselAn/LayoutSugar'
+  s.homepage         = 'https://github.com/ChaselAn/UILayoutSugar'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ChaselAn' => '865770853@qq.com' }
-  s.source           = { :git => 'https://github.com/ChaselAn/LayoutSugar.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ChaselAn/UILayoutSugar.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

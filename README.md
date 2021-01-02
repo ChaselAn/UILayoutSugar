@@ -1,4 +1,4 @@
-# LayoutSugar
+# UILayoutSugar
 快速书写约束的语法糖
 
 ## 使用文档
@@ -130,7 +130,8 @@ blackView <> (blueView, UIEdgeInsets(top: 20, left: 20, bottom: 20, right: 20))
 1.使用cocoapods
 
 ```ruby
-pod 'LayoutSugar'
+pod 'UILayoutSugar'
 ```
 
 2.或者可以直接拷贝`/LayoutSugar/LayoutSugar/Classes/`目录下的`LayoutSugar.swift`和`LayoutSugar+UIView.swift`文件到你的项目中，按需拷贝。
+
