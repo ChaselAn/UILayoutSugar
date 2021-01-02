@@ -1,22 +1,32 @@
 {
   "name": "LayoutSugar",
-  "version": "0.1.0",
-  "summary": "A short description of LayoutSugar.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/ancheng/LayoutSugar",
+  "version": "1.0.0",
+  "summary": "快速创建约束的语法糖",
+  "description": "快速创建约束的语法糖",
+  "homepage": "https://github.com/ChaselAn/LayoutSugar",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "ancheng": "cheng.an@duodian.com"
+    "ChaselAn": "865770853@qq.com"
   },
   "source": {
-    "git": "https://github.com/ancheng/LayoutSugar.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ChaselAn/LayoutSugar.git",
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "LayoutSugar/Classes/**/*"
+  "source_files": "LayoutSugar/LayoutSugar/Classes/**/*",
+  "swift_versions": [
+    "4.0",
+    "4.1",
+    "4.2",
+    "5.0",
+    "5.1",
+    "5.2",
+    "5.3"
+  ],
+  "swift_version": "5.3"
 }

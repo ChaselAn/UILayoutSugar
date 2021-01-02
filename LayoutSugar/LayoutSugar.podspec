@@ -30,5 +30,6 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'LayoutSugar/Classes/**/*'
+  s.source_files = 'LayoutSugar/LayoutSugar/Classes/*.swift'
+  s.swift_versions = ['4.0', '4.1', '4.2', '5.0', '5.1', '5.2', '5.3']
 end
